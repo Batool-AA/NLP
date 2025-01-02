@@ -1,4 +1,4 @@
-This repository contains assignments done in the course Natural Language Processing in Fall 2024.
+This repository contains assignments done in the course Natural Language Processing taken in Fall 2024
 
 ## Homework 01
 - Question 01: Resolving the ambiguity between DD/MM/YYYY and MM/DD/YYYY date formats in the given text
